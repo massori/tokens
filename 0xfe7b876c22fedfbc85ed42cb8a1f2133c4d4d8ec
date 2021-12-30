@@ -1,0 +1,13 @@
+
+  
+{
+ "name": "Project-x",
+ "website": "https://massori764.wixsite.com/pexenium",
+ "description": "Pexinum",
+ "explorer": "https://bscscan.com/token/0xfe7b876c22fedfbc85ed42cb8a1f2133c4d4d8ec",
+ "type": "BEP20",
+ "symbol": "PEX",
+ "decimals": 10,
+ "status": "active",
+ "id": "0xfe7b876c22fedfbc85ed42cb8a1f2133c4d4d8ec"
+}
